@@ -1,0 +1,5 @@
+export * from './IResponse'
+export * from './IAuth'
+export * from './IBaseProps'
+export * from './IVideo'
+export * from './IUser'
